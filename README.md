@@ -6,3 +6,5 @@ speed, and trajectory through a VR headset.
 Updated to the branch
 
 Updating to test ssh... no passphrase!
+
+Updating via VS code no SSh keyphrase needed
